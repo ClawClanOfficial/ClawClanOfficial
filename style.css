@@ -1,0 +1,68 @@
+body{margin-top: 0px;
+    margin-left: 0px;
+   background-color:steelblue;
+    
+}
+#N1{margin-left: 50px;
+    margin-top: 100px;
+}
+#text1{color:black;
+font-size: 100px;
+margin-left: 50px;
+margin-right: 50px;
+text-align:justify;
+margin-top: 25px;
+font-family: 'Londrina Solid', cursive;
+    
+}
+#idk{margin-top: 0px;
+    color: black;
+    font-family: 'Londrina Solid', cursive;
+    font-size: 60px;
+    margin-left: 40
+    
+}
+#Home{text-align: center;}
+h1{color: orange;
+  font-size: 30px;
+ }
+.links{font-size: 25px; color: firebrick; text-align: center;margin-left: 100px; 
+}
+.links:hover{font-size: 35px;color: white;background-color:yellow ;text-shadow: 3px 3px steelblue; padding: 10px 6px 9px 7px; }
+
+#claw1{margin-left: 400px;
+margin-top: -120;
+}
+#mom{font-size: 100px;
+    font-family: 'Londrina Solid', cursive;
+    margin-left: 50;
+    margin-top: 40px;
+}
+#htjh{color: black;
+    font-family: 'Londrina Solid', cursive;
+    font-size: 90px;}
+#idk{margin-top: 0px;
+    color: black;
+    font-family: 'Londrina Solid', cursive;
+    font-size: 60px;
+    margin-left: 40}
+        
+#nnonn{margin-right: 50px;
+text-align:justify;
+margin-top: 50px;
+font-family: 'Londrina Solid', cursive;}
+#nom{color: black;
+    font-family: 'Londrina Solid', cursive;
+    font-size: 90px;}
+#htj1{margin-top: 5px;
+    color: black;
+    font-family: 'Londrina Solid', cursive;
+    font-size: 60px;
+margin-left: 20px;
+text-align: justify;
+    margin-right: 20;
+    
+}
+.para{color: whitesmoke;
+    font-family: 'Londrina Solid', cursive;
+    font-size: 50px;}
